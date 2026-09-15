@@ -20,3 +20,7 @@ biglietteria@varsviaggi.it
 Upload the contents of this ZIP to the root of the website repository. Then enable GitHub Pages from the `main` branch and `/(root)`.
 
 Tour details, availability and pricing are intentionally not invented in this starter website and can be added when confirmed.
+
+
+## V2 Pricing
+Displayed as starting prices: City Tours from €15; other tour categories from €20. Final price may vary by tour and availability.
